@@ -1,12 +1,12 @@
-# Elastic search datasource for CakePHP 3.0
+# Elasticsearch datasource for CakePHP 3.0
 
 This is a pre-alpha version of an alternative ORM for CakePHP 3.0 using Elastic Search
 as its backend. It is currently under development and is only being used to test the
 interfaces exposed in CakePHP 3.0.
 
-## Installing CakePHP via composer
+## Installing Elasticsearch datasource via composer
 
-You can install CakePHP into your project using
+You can install Elasticsearch datasource into your project using
 [composer](http://getcomposer.org). For existing applications you can add the
 following to your `composer.json` file:
 
